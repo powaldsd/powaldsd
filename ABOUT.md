@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @powaldsd or Aldin Bazdar
-- 👀 I’m interested in web and softwave development
-- 🎮 I want to become a professional software developer
+
